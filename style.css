@@ -1,0 +1,36 @@
+.container{
+ max-width: 600px;
+}
+.btn{
+ background: #44695c;
+ color: rgb(235, 235, 235);
+ outline: none !important;
+ box-shadow: none !important;
+}
+.btn:focus{
+
+outline: none !important;
+}
+button:hover{
+ background: #bce9d9;
+}
+input[type = 'submit']:hover{
+ background: #bcc1e9;
+
+}
+input[type = 'submit']{
+ background: #444869;
+ box-shadow:  0px 0px 15px white;
+
+}
+.username{
+ font-weight: bold ;
+}
+.time{
+ font-size: 0.7em;
+ color: #999;
+}
+.update-mssg{
+ text-align: center;
+ margin: 20px auto;
+}
